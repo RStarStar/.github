@@ -1,5 +1,13 @@
 ## Hi there 👋
-
+```txt
+Welcome to this organization
+Our Goal for this Organization is to improve R by creating tools or packages that
+can benefit others or even your own codebases
+And Also we do intend to port popular C/C++ libraries to R for your use
+We Hope to see you and your contributions to make R a better place
+Anyways take care and Thank you for taking time in your day to read this message
+Have a nice day :)
+```
 <!--
 
 **Here are some ideas to get you started:**
